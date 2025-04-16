@@ -21,11 +21,11 @@ This project analyzes over 5,600 shoe sales records using Excel. It includes Piv
 - Clean dashboard layout with user-friendly design
 
 ## Files Included
-- ![Download Excel Dashboard](./Excel%20Dashboard.xlsx) – Main dashboard file with raw data, pivot tables, and charts
+- [Download Excel Dashboard](./Excel%20Dashboard.xlsx) – Main dashboard file with raw data, pivot tables, and charts
 
 ## Original dataset
 The dataset used for this project was sourced from Kaggle. It contains pricing and product information for various shoe brands, colors, and sizes
 - You can find it [here](https://www.kaggle.com/datasets/ashutosh598/shoes-price-for-various-brands).
 
 ## Dashboard Preview
-[Dashboard](./Dashboard.png)
+![Dashboard](./Dashboard.png)
