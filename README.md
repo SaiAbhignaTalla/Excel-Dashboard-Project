@@ -16,12 +16,12 @@ This project analyzes over 5,600 shoe sales records using Excel. It includes Piv
   - Average offer price by size
   - Average price vs. offer price by color
  
-[PivotTable1](./PivotTable1.png)        [PivotTable2](./PivotTable2.png)
+![PivotTable1](./PivotTable1.png)        ![PivotTable2](./PivotTable2.png)
 
 - Clean dashboard layout with user-friendly design
 
 ## Files Included
-- [Download Excel Dashboard](./Excel%20Dashboard.xlsx) – Main dashboard file with raw data, pivot tables, and charts
+- ![Download Excel Dashboard](./Excel%20Dashboard.xlsx) – Main dashboard file with raw data, pivot tables, and charts
 
 ## Original dataset
 The dataset used for this project was sourced from Kaggle. It contains pricing and product information for various shoe brands, colors, and sizes
